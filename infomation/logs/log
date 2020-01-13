@@ -1,0 +1,125 @@
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:05:49] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/manager.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+DEBUG manager.py:42 调试内容
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:09:17] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/manager.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+DEBUG manager.py:42 调试内容
+INFO manager.py:43 详细信息
+WARNING manager.py:44 警告信息
+ERROR manager.py:45 错误信息
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:10:03] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/info/__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+ERROR manager.py:45 错误信息
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+DEBUG manager.py:42 调试内容
+INFO manager.py:43 详细信息
+WARNING manager.py:44 警告信息
+ERROR manager.py:45 错误信息
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:15:42] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/manager.py', reloading
+INFO _internal.py:88  * Restarting with stat
+ERROR manager.py:45 错误信息
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+DEBUG manager.py:42 调试内容
+INFO manager.py:43 详细信息
+WARNING manager.py:44 警告信息
+ERROR manager.py:45 错误信息
+DEBUG manager.py:48 调试内容++
+INFO manager.py:49 调试内容++
+WARNING manager.py:50 调试内容++
+ERROR manager.py:51 调试内容++
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:19:11] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/manager.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+DEBUG views.py:19 调试内容
+INFO views.py:20 详细信息
+WARNING views.py:21 警告信息
+ERROR views.py:22 错误信息
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:27:06] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:36] "GET / HTTP/1.1" 500 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:36] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:36] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:36] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:36] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:58:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/heJing/Desktop/classes/day07/infomation12/info/__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 10:59:07] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/css/main.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/js/main.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/js/index.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/logo.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/person01.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/news_pic.jpg HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/person.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/pic_code.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/hit_icon.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:18] "GET /static/news/images/clock.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:00:54] "GET /static/news/images/shutoff.png HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 332-905-391
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:07:38] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/css/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/js/main.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/logo.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/pic_code.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/hit_icon.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /static/news/images/clock.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 12:08:14] "GET /favicon.ico HTTP/1.1" 200 -
